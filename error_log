@@ -1,0 +1,9 @@
+[15-Aug-2023 07:15:46 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Admin\OrderController::bulk_export_data() in /home/softitglobal/public_html/app/Http/Controllers/Admin/OrderController.php on line 721
+[15-Aug-2023 07:16:06 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Admin\OrderController::bulk_export_data() in /home/softitglobal/public_html/app/Http/Controllers/Admin/OrderController.php on line 721
+[15-Aug-2023 07:16:45 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Admin\OrderController::bulk_export_data() in /home/softitglobal/public_html/app/Http/Controllers/Admin/OrderController.php on line 721
+[15-Aug-2023 07:16:49 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Admin\OrderController::bulk_export_data() in /home/softitglobal/public_html/app/Http/Controllers/Admin/OrderController.php on line 721
+[16-Aug-2023 07:43:02 UTC] PHP Fatal error:  Cannot use Illuminate\Support\Facades\Response as Response because the name is already in use in /home/softitglobal/public_html/app/Http/Controllers/Admin/OrderController.php on line 37
+[16-Aug-2023 07:44:45 UTC] PHP Fatal error:  Cannot use Illuminate\Support\Facades\View as View because the name is already in use in /home/softitglobal/public_html/app/Http/Controllers/Admin/OrderController.php on line 38
+[27-Aug-2023 11:02:17 UTC] PHP Fatal error:  Trait "App\Model\HasFactory" not found in /home/softitglobal/public_html/app/Model/Color.php on line 7
+[03-Sep-2023 13:16:12 UTC] PHP Fatal error:  Cannot use App\CPU\helpers as helpers because the name is already in use in /home/softitglobal/multiv.softitglobal.xyz/app/Http/Controllers/Web/WebController.php on line 49
+[04-Oct-2023 07:34:40 UTC] PHP Fatal error:  Cannot use Illuminate\Support\Facades\Storage as Storage because the name is already in use in /home/softitglobal/halalmall.softitglobal.xyz/app/Http/Controllers/Seller/ProductController.php on line 33
