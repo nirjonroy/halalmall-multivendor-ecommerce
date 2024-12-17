@@ -1,4 +1,4 @@
-<a align="center" href="https://www.halalmall.com.bd/"><img src="https://www.halalmall.com.bd/storage/company/2024-07-30-66a8f6e304b8d.png"></a>
+<p align="center"> <a href="https://www.halalmall.com.bd/" target="_blank"><img src="https://www.halalmall.com.bd/storage/company/2024-07-30-66a8f6e304b8d.png" width="400" alt="Laravel Logo"></a> </p>
 
 <h2 style="text-align: center"> About Halal Mall</h2>
 
